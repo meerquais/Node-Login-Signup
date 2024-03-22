@@ -48,7 +48,7 @@ This repository contains the code for a Login/Signup application built using the
 4. Run the development server:
 
 
-       ```bash
+      ```bash
        npm start
 
 
